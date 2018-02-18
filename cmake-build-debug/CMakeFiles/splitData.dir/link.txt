@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/splitData.dir/main.cpp.o CMakeFiles/splitData.dir/MyFile.cpp.o CMakeFiles/splitData.dir/MySet.cpp.o  -o splitData 
